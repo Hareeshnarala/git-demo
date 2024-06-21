@@ -4,10 +4,6 @@ Eating Sugar
 No Papa
 Telling Lies 
 No papa
-<<<<<<< HEAD
 Open your mouth 
 Ha Ha Ha ...
-=======
-Open your mouth
-Ha Ha Ha ...
->>>>>>> ac09914330a786feffa55c19d6453d62620ce9c1
+
